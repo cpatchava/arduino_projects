@@ -1,0 +1,11 @@
+I am currently running my stuff inside of ubuntu.
+
+I had to install the IDE and then log out once i installed it for the arduino to actually be recognized. 
+
+But in the case that it does not work anyway:
+
+http://blog.opensensors.io/blog/2014/09/13/getting-started-with-arduino-on-linux/
+
+read that, it will help make this work.
+
+
