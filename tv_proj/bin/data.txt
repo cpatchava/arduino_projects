@@ -85,7 +85,7 @@ OFF 	ON
 4360 usec, 620 usec
 600 usec, 580 usec
 
-volume down:
+volume down
 OFF 	ON
 19628 usec, 4400 usec
 4400 usec, 600 usec
@@ -128,7 +128,7 @@ OFF 	ON
 4360 usec, 620 usec
 600 usec, 580 usec
 
-mute:
+mute
 OFF 	ON
 11788 usec, 4400 usec
 4380 usec, 620 usec
@@ -210,7 +210,7 @@ OFF 	ON
 28744 usec, 8880 usec
 2160 usec, 540 usec
 
-speed:
+speed
 OFF 	ON
 15512 usec, 8840 usec
 4400 usec, 540 usec
@@ -250,7 +250,7 @@ OFF 	ON
 2160 usec, 580 usec
 
 
-timer:
+timer
 OFF 	ON
 44436 usec, 8860 usec
 4380 usec, 580 usec
